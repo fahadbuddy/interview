@@ -26,6 +26,8 @@ Fahad: Phillip GUO [http://www.pgbovine.net/programming-interview-tips.htm]
 
 Another Blog: [http://itsallonesandzeroes.blogspot.de/2013/07/prepping-for-google-interview.html]
 
+Crowd Research at Stanford: [http://crowdresearch.stanford.edu/w/index.php?title=Main_Page]
+
 * Carlos Bueno – **Get That Job at Facebook** [[web][a_cb]]
 * Daniel Blumenthal – **How to Prepare for Technical Interviews** [[web][a_db3]]
 * David Byttow – **ABC: Always Be Coding** [[web][a_db]]
