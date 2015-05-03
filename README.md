@@ -21,8 +21,10 @@
 ## Articles
 
 Recommended: Steve Yegge – **Get That Job at Google** [[web][a_sy]]
-[Fahad Edit] Phillip GUO [http://www.pgbovine.net/programming-interview-tips.htm]
-[]
+
+Fahad: Phillip GUO [http://www.pgbovine.net/programming-interview-tips.htm]
+
+Another Blog: [http://itsallonesandzeroes.blogspot.de/2013/07/prepping-for-google-interview.html]
 
 * Carlos Bueno – **Get That Job at Facebook** [[web][a_cb]]
 * Daniel Blumenthal – **How to Prepare for Technical Interviews** [[web][a_db3]]
